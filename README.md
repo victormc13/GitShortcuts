@@ -44,3 +44,7 @@ Example commands:
 ### **git status** : Show the status of your working directory.
 
   <img src="./CommandImages/gitstatus.webp" alt="gitstatus"/>
+
+### **git add <file>**: Stage changes for commit.
+
+  <img src="./CommandImages/gitadd.webp" alt="gitadd" />
