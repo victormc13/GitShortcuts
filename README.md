@@ -45,6 +45,39 @@ Example commands:
 
   <img src="./CommandImages/gitstatus.webp" alt="gitstatus"/>
 
-### **git add <file>**: Stage changes for commit.
+### **git add**: Stage changes for commit.
+```
+git add [filename]
+```
 
   <img src="./CommandImages/gitadd.webp" alt="gitadd" />
+
+### **git commit**: Commit staged changes with a message.
+```
+git commit -m "commit message"
+```
+
+  <img src="./CommandImages/gitcommit.webp" alt="gitcommit" />
+
+### **git push**: Push local commits to a remote repository.
+>First time you push, you need to set the upstream branch with the following command:
+```
+git push --set-upstream origin main
+```
+```
+git push
+```
+>If this case ask for username and password, you should set up your credentials with the following commands, and use your favorite password authentication method (access token, SSH key, etc.):
+```
+git config --global user.name "your_username"
+git config --global user.email "your_email"
+```
+
+  <img src="./CommandImages/gitpush.webp" alt="gitpush" />
+
+### **git pull**: Pull changes from a remote branch.
+```
+git pull
+```
+
+  <img src="./CommandImages/gitpull.webp" alt="gitpull" />
