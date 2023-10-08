@@ -40,3 +40,7 @@ Example commands:
 ### **git init** : Initialize a new Git repository.
 
   <img src="./CommandImages/gitinit.webp" alt="gitinit"/>
+
+### **git status** : Show the status of your working directory.
+
+  <img src="./CommandImages/gitstatus.webp" alt="gitstatus"/>
