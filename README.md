@@ -21,11 +21,22 @@
 
 <!-- > Describe the tech stack and include only the relevant sections that apply to your project. -->
 
-<details>
-  <summary>Software</summary>
   <ul>
-    <li>Vim</li>
     <li>Git</li>
+    <li>Vim</li>
     <li>GitHub</li>
   </ul>
-</details>
+
+### Git basic commands
+
+Shortcuts will improve our productivity and simplify our work. I will let you some of them below:v or if you want more, you can get the full list downloading the pdf [here]()
+
+Example commands:
+
+### **pwd**: First make sure you are in the right directory of your project.
+
+  <img src="./Commands/pwd.webp" alt="pwd"/>
+
+### **git init** : Initialize a new Git repository.
+
+  <img src="./Commands/gitinit.webp" alt="gitinit"/>
