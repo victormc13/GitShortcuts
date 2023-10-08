@@ -35,8 +35,8 @@ Example commands:
 
 ### **pwd**: First make sure you are in the right directory of your project.
 
-  <img src="./Commands/pwd.webp" alt="pwd"/>
+  <img src="./CommandImages/pwd.webp" alt="pwd"/>
 
 ### **git init** : Initialize a new Git repository.
 
-  <img src="./Commands/gitinit.webp" alt="gitinit"/>
+  <img src="./CommandImages/gitinit.webp" alt="gitinit"/>
