@@ -39,7 +39,7 @@
 
 ### Git basic commands
 
-Shortcuts will improve our productivity and simplify our work. I will let you some of them below:v or if you want more, you can get the full list downloading the pdf [here]()
+Shortcuts will improve our productivity and simplify our work. I will let you some of them below:v or if you want more, you can get the full list downloading the pdf [here](#-gitcommands-cheatsheet)
 
 Example commands:
 
@@ -91,3 +91,26 @@ git pull
 ```
 
   <img src="./CommandImages/gitpull.webp" alt="gitpull" />
+
+## Git commands cheatsheet <a name="gitcommands-cheatsheet"></a>
+
+Git, a powerful version control system, is a developer's best friend. It not only tracks changes in your codebase but also offers a range of commands for seamless collaboration and efficient file management. However, with so many commands available, it can be difficult to remember them all. That's why we've created this handy Git cheat sheet for you to reference. It contains the most common Git commands, as well as some more advanced ones for when you're feeling adventurous.
+<!--- Download git commands cheatsheet --->
+  <img src="./git-commands-cheatsheet.png"/>
+
+# Conclusion
+Git commands empower developers with the tools needed for effective collaboration, version control, and project management. By mastering these commands, you enhance your ability to work seamlessly in a team and manage your codebase efficiently.
+
+Now, armed with this knowledge, go ahead and download that PDF file from the button below with confidence!
+
+
+<div align="center">
+  <a href="https://github.com/victormc13/GitShortcuts/raw/main/GitShortcuts.pdf" align="center">
+    <img src="gitshortcuts-presentation-btn.png" alt="pdf presentation" width=200/>
+  </a>
+</div>
+<div align="center">
+  <strong align="center"> git commands cheatsheet(pdf) </strong>
+</div>
+
+# **Happy coding! 🚀**
