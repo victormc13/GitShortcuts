@@ -4,6 +4,7 @@
   <br/>
 
   <h1><b>GitShortcuts</b></h1>
+  <img src="gitshortcuts-presentation-btn.png" alt="donwload pdf button"/>
 
 </div>
 
