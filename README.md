@@ -4,9 +4,12 @@
   <br/>
 
   <h1><b>GitShortcuts</b></h1>
-  <img src="gitshortcuts-presentation-btn.png" alt="donwload pdf button"/>
-
+ 
 </div>
+
+<!--- Download presentation --->
+
+![Download](./gitshortcuts-presentation-btn.png)
 
 <!-- PROJECT DESCRIPTION -->
 
