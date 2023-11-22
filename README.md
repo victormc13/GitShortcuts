@@ -105,7 +105,7 @@ Now, armed with this knowledge, go ahead and download that PDF file from the but
 
 
 <div align="center">
-  <a href="https://github.com/victormc13/GitShortcuts/raw/main/GitShortcuts.pdf" align="center">
+  <a href="https://github.com/victormc13/GitShortcuts/raw/main/git-cheat-sheet.pdf" align="center">
     <img src="gitshortcuts-presentation-btn.png" alt="pdf presentation" width=200/>
   </a>
 </div>
