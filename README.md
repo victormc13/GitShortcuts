@@ -9,7 +9,7 @@
 
 <!--- Download presentation --->
 
-![Download](./gitshortcuts-presentation-btn.png)
+[![Download PDF](./gitshortcuts-presentation-btn.png)](https://www.googlhttps://www.google.com)
 
 <!-- PROJECT DESCRIPTION -->
 
